@@ -14,4 +14,6 @@ How to run:
   
   - Browse to http://localhost:3010/
 
+You should see something like this:
 
+![](how_it_looks_like.gif)
